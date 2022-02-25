@@ -1,6 +1,5 @@
 ### Hi there I am Bartek👋
-<img width="100px" src="https://files.fm/u/5pd8vc7zq" align="center" alt="GitHub Readme Stats" data-canonical-src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" style="max-width: 100%;">
-<!--
+<a href="https://www.fotosik.pl/zdjecie/2cfda6d74fb5c453" target="_blank"><img src="https://images92.fotosik.pl/575/2cfda6d74fb5c453med.png" border="0" alt="" /></a>
 **Bartek9090/Bartek9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
