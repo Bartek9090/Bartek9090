@@ -6,7 +6,7 @@
  
  Still learning and discovering new stuff!
  
- Currently learning ---> TypeScript
+ Currently learning ---> React
  
  
 
